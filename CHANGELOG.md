@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-01-24: Bump patch version
 - 2023-01-17: feat(db): add session handling
 - 2025-05-18: docs(routes): add session handling
 - 2025-05-27: Clean up unused imports
