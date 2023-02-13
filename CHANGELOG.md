@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-02-13: Update logging output
 - 2023-01-31: Add fallback for missing data
 - 2023-01-29: Minor code cleanup
 - 2023-01-24: Bump patch version
