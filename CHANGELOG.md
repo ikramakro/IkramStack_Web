@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-02-27: docs(ui): fix CORS headers
 - 2023-02-23: docs(routes): fix pagination offset
 - 2023-02-13: Update logging output
 - 2023-01-31: Add fallback for missing data
