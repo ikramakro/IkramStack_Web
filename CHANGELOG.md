@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-03-08: refactor(utils): add session handling
 - 2023-02-27: docs(ui): fix CORS headers
 - 2023-02-23: docs(routes): fix pagination offset
 - 2023-02-13: Update logging output
