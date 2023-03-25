@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-03-25: docs(ui): update package lock
 - 2023-03-18: perf(utils): update env example
 - 2023-03-08: refactor(utils): add session handling
 - 2023-02-27: docs(ui): fix CORS headers
