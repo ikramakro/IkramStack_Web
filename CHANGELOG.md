@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-04-02: chore(config): add rate limiting
 - 2023-04-01: test(middleware): update cache TTL
 - 2023-03-25: docs(ui): update package lock
 - 2023-03-18: perf(utils): update env example
