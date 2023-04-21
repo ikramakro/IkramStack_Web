@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-04-21: Handle empty state
 - 2023-04-20: test(api): update cache TTL
 - 2023-04-16: chore(utils): add validation middleware
 - 2023-04-02: chore(config): add rate limiting
