@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-04-23: style(middleware): remove dead code
 - 2023-04-22: Adjust API response format
 - 2023-04-21: Handle empty state
 - 2023-04-20: test(api): update cache TTL
