@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-05-02: docs(routes): update package lock
 - 2023-05-01: Improve code readability
 - 2023-05-01: style(routes): add validation middleware
 - 2023-04-23: style(middleware): remove dead code
