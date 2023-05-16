@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-05-16: refactor(db): sync schema changes
 - 2023-05-02: docs(routes): update package lock
 - 2023-05-01: Improve code readability
 - 2023-05-01: style(routes): add validation middleware
