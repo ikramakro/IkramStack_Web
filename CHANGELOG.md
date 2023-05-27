@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-05-27: chore(auth): add validation middleware
 - 2023-05-21: docs(auth): resolve timeout on slow networks
 - 2023-05-16: refactor(db): sync schema changes
 - 2023-05-02: docs(routes): update package lock
