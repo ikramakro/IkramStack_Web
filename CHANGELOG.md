@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-06-01: style(routes): correct response status codes
 - 2023-05-30: Handle empty state
 - 2023-05-27: chore(auth): add validation middleware
 - 2023-05-21: docs(auth): resolve timeout on slow networks
