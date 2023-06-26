@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-06-26: Fix broken unit test
 - 2023-06-04: refactor(auth): fix memory leak in worker
 - 2023-06-01: style(routes): correct response status codes
 - 2023-05-30: Handle empty state
