@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-07-12: Fix date parsing bug
 - 2023-06-26: Fix broken unit test
 - 2023-06-04: refactor(auth): fix memory leak in worker
 - 2023-06-01: style(routes): correct response status codes
