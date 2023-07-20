@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-07-20: refactor(routes): resolve timeout on slow networks
 - 2023-07-12: Fix date parsing bug
 - 2023-06-26: Fix broken unit test
 - 2023-06-04: refactor(auth): fix memory leak in worker
