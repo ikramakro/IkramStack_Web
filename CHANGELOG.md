@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-08-08: feat(api): fix CORS headers
 - 2023-08-07: Adjust API response format
 - 2023-08-01: Fix validation edge case
 - 2023-07-26: Update environment config
