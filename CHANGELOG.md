@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-08-31: Patch security issue
 - 2023-08-22: Update README
 - 2023-08-08: feat(api): fix CORS headers
 - 2023-08-07: Adjust API response format
