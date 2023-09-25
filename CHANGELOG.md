@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-09-25: Resolve merge conflict
 - 2023-09-22: Update logging output
 - 2023-08-31: Patch security issue
 - 2023-08-22: Update README
