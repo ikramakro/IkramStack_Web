@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-10-12: Fix date parsing bug
 - 2023-10-04: feat(db): add rate limiting
 - 2023-09-29: Sync lockfile
 - 2023-09-25: Resolve merge conflict
