@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-10-26: Update dependencies
 - 2023-10-20: refactor(ui): add rate limiting
 - 2023-10-15: Update environment config
 - 2023-10-12: Fix date parsing bug
