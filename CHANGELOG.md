@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-11-05: fix(config): update package lock
 - 2023-10-30: test(db): add session handling
 - 2023-10-26: Update dependencies
 - 2023-10-20: refactor(ui): add rate limiting
