@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-11-07: chore(db): improve error messages
 - 2023-11-05: fix(config): update package lock
 - 2023-10-30: test(db): add session handling
 - 2023-10-26: Update dependencies
