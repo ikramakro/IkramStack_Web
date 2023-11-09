@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-11-09: feat(core): fix memory leak in worker
 - 2023-11-07: chore(db): improve error messages
 - 2023-11-05: fix(config): update package lock
 - 2023-10-30: test(db): add session handling
