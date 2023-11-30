@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-11-30: style(middleware): update env example
 - 2023-11-24: docs(middleware): remove dead code
 - 2023-11-09: feat(core): fix memory leak in worker
 - 2023-11-07: chore(db): improve error messages
