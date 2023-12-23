@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-12-23: chore(routes): fix pagination offset
 - 2023-12-08: Patch security issue
 - 2023-11-30: style(middleware): update env example
 - 2023-11-24: docs(middleware): remove dead code
