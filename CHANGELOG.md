@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-12-29: chore(utils): correct response status codes
 - 2023-12-28: Sync lockfile
 - 2023-12-23: chore(routes): fix pagination offset
 - 2023-12-08: Patch security issue
