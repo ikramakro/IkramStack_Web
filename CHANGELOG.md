@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-01-10: test(core): fix CORS headers
 - 2024-01-05: perf(auth): update env example
 - 2023-12-29: chore(utils): correct response status codes
 - 2023-12-28: Sync lockfile
