@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-01-14: Adjust API response format
 - 2024-01-11: fix(middleware): correct response status codes
 - 2024-01-10: test(core): fix CORS headers
 - 2024-01-05: perf(auth): update env example
