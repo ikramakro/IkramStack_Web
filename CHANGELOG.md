@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-01-18: fix(core): sync schema changes
 - 2024-01-15: perf(utils): correct response status codes
 - 2024-01-14: Adjust API response format
 - 2024-01-11: fix(middleware): correct response status codes
