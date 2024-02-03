@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-02-03: style(routes): update package lock
 - 2024-01-30: Minor code cleanup
 - 2024-01-18: fix(core): sync schema changes
 - 2024-01-15: perf(utils): correct response status codes
