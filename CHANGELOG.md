@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-02-11: docs(db): handle empty payload
 - 2024-02-08: perf(middleware): improve error messages
 - 2024-02-07: perf(api): fix memory leak in worker
 - 2024-02-03: style(routes): update package lock
