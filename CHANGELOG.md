@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-02-29: docs(api): update package lock
 - 2024-02-13: perf(auth): handle empty payload
 - 2024-02-11: docs(db): handle empty payload
 - 2024-02-08: perf(middleware): improve error messages
