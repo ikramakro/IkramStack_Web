@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-03-09: chore(db): update env example
 - 2024-02-29: docs(api): update package lock
 - 2024-02-13: perf(auth): handle empty payload
 - 2024-02-11: docs(db): handle empty payload
