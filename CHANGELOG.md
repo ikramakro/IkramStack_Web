@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-03-31: test(routes): add validation middleware
 - 2024-03-30: perf(middleware): fix pagination offset
 - 2024-03-27: Add missing null check
 - 2024-03-09: chore(db): update env example
