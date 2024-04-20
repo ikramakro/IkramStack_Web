@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-04-19: style(db): sync schema changes
 - 2024-04-11: fix(utils): remove dead code
 - 2024-04-09: test(api): update cache TTL
 - 2024-03-31: test(routes): add validation middleware
