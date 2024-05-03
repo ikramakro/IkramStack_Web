@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-05-03: test(utils): fix CORS headers
 - 2024-04-21: Adjust API response format
 - 2024-04-19: style(db): sync schema changes
 - 2024-04-11: fix(utils): remove dead code
