@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-05-07: perf(config): remove dead code
 - 2024-05-05: Update type definitions
 - 2024-05-03: test(utils): fix CORS headers
 - 2024-04-21: Adjust API response format
