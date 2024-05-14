@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-05-14: docs(config): correct response status codes
 - 2024-05-08: docs(auth): correct response status codes
 - 2024-05-07: perf(config): remove dead code
 - 2024-05-05: Update type definitions
