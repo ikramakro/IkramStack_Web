@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-05-26: chore(config): improve error messages
 - 2024-05-24: refactor(middleware): update package lock
 - 2024-05-14: docs(config): correct response status codes
 - 2024-05-08: docs(auth): correct response status codes
