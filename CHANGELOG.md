@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-06-12: Fix validation edge case
 - 2024-05-27: Update environment config
 - 2024-05-26: chore(config): improve error messages
 - 2024-05-24: refactor(middleware): update package lock
