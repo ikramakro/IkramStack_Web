@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-07-08: fix(auth): update package lock
 - 2024-06-30: test(utils): add validation middleware
 - 2024-06-12: Fix validation edge case
 - 2024-05-27: Update environment config
