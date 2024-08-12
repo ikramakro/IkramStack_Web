@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-08-12: refactor(core): update package lock
 - 2024-07-30: Add fallback for missing data
 - 2024-07-08: fix(auth): update package lock
 - 2024-06-30: test(utils): add validation middleware
