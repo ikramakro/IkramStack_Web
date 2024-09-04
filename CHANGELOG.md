@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-09-04: perf(ui): update package lock
 - 2024-08-20: Update README
 - 2024-08-16: style(routes): improve error messages
 - 2024-08-16: Update logging output
