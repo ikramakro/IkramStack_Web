@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+- 2024-09-10: refactor(ui): fix pagination offset
+- 2024-09-09: fix(ui): update cache TTL
 - 2024-09-04: perf(ui): update package lock
 - 2024-08-20: Update README
 - 2024-08-16: style(routes): improve error messages
