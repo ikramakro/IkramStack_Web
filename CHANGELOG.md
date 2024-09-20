@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-09-20: feat(middleware): remove dead code
 - 2024-09-10: refactor(ui): fix pagination offset
 - 2024-09-09: fix(ui): update cache TTL
 - 2024-09-04: perf(ui): update package lock
