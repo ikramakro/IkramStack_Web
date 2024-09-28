@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2024-09-28: refactor(routes): add validation middleware
 - 2024-09-25: refactor(middleware): add validation middleware
 - 2024-09-20: feat(middleware): remove dead code
 - 2024-09-10: refactor(ui): fix pagination offset
