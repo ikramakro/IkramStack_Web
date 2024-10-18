@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-10-18: Improve code readability
 - 2024-10-06: test(api): fix pagination offset
 - 2024-09-28: refactor(routes): add validation middleware
 - 2024-09-25: refactor(middleware): add validation middleware
