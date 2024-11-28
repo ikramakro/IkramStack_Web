@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-11-28: docs(ui): fix memory leak in worker
 - 2024-11-23: test(api): fix memory leak in worker
 - 2024-11-04: chore(auth): improve error messages
 - 2024-10-18: Improve code readability
