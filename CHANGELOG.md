@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2024-12-12: style(core): add validation middleware
 - 2024-12-06: Update README
 - 2024-11-28: docs(ui): fix memory leak in worker
 - 2024-11-23: test(api): fix memory leak in worker
