@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-01: refactor(db): fix CORS headers
 - 2025-01-01: feat(middleware): improve error messages
 - 2025-01-01: feat(config): correct response status codes
 - 2024-12-29: Minor code cleanup
