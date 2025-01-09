@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-09: docs(api): correct response status codes
 - 2025-01-09: docs(auth): fix memory leak in worker
 - 2025-01-09: feat(utils): resolve timeout on slow networks
 - 2025-01-06: style(utils): fix memory leak in worker
