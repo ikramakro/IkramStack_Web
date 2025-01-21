@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-21: Optimize query performance
 - 2025-01-16: fix(auth): add validation middleware
 - 2025-01-13: Add missing null check
 - 2025-01-09: feat(utils): fix memory leak in worker
