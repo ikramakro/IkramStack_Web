@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-01-27: feat(routes): update env example
 - 2025-01-25: docs(auth): fix memory leak in worker
 - 2025-01-23: Patch security issue
 - 2025-01-22: feat(auth): add validation middleware
