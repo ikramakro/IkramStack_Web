@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-02-13: perf(auth): add session handling
 - 2025-02-08: chore(utils): resolve timeout on slow networks
 - 2025-01-30: style(auth): fix memory leak in worker
 - 2025-01-29: Clean up unused imports
