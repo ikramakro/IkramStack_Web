@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-02-21: style(db): update package lock
 - 2025-02-20: Improve code readability
 - 2025-02-17: perf(ui): update cache TTL
 - 2025-02-15: style(middleware): add validation middleware
