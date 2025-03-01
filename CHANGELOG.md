@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-03-01: Update dependencies
 - 2025-02-27: docs(utils): add validation middleware
 - 2025-02-26: style(config): add session handling
 - 2025-02-25: chore(utils): update env example
