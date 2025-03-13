@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-03-13: refactor(db): handle empty payload
 - 2025-03-01: fix(ui): update cache TTL
 - 2025-03-01: Update dependencies
 - 2025-02-27: docs(utils): add validation middleware
