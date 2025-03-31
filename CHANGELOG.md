@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-03-31: style(utils): add rate limiting
 - 2025-03-24: Fix date parsing bug
 - 2025-03-24: test(routes): remove dead code
 - 2025-03-21: test(auth): fix memory leak in worker
