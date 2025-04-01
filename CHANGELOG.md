@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-01: docs(core): add validation middleware
 - 2025-03-31: style(utils): add rate limiting
 - 2025-03-24: Fix date parsing bug
 - 2025-03-24: test(routes): remove dead code
