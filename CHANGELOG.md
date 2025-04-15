@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-15: perf(config): add rate limiting
 - 2025-04-05: Refactor data loader
 - 2025-04-01: docs(core): add validation middleware
 - 2025-03-31: style(utils): add rate limiting
