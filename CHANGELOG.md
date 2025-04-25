@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-25: Add fallback for missing data
 - 2025-04-16: refactor(routes): remove dead code
 - 2025-04-15: perf(config): add rate limiting
 - 2025-04-05: Refactor data loader
