@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-29: fix(ui): fix memory leak in worker
 - 2025-04-29: fix(core): remove dead code
 - 2025-04-25: docs(routes): fix pagination offset
 - 2025-04-25: Add fallback for missing data
