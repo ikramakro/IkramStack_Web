@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-10: style(utils): update cache TTL
 - 2025-05-02: Patch security issue
 - 2025-04-30: fix(utils): correct response status codes
 - 2025-04-29: fix(ui): fix memory leak in worker
