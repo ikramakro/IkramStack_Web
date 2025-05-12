@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-12: fix(db): add validation middleware
 - 2025-05-12: Clean up unused imports
 - 2025-05-12: style(api): sync schema changes
 - 2025-05-10: style(utils): update cache TTL
