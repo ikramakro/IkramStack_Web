@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-12: Clean up unused imports
 - 2025-05-12: style(api): sync schema changes
 - 2025-05-10: style(utils): update cache TTL
 - 2025-05-02: Patch security issue
