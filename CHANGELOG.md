@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-25: Update README
 - 2025-05-12: fix(db): add validation middleware
 - 2025-05-12: Clean up unused imports
 - 2025-05-12: style(api): sync schema changes
