@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-05-29: Fix broken unit test
 - 2025-05-25: Resolve merge conflict
 - 2025-05-25: Update README
 - 2025-05-12: fix(db): add validation middleware
