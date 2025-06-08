@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-08: perf(api): remove dead code
 - 2025-06-08: chore(auth): fix CORS headers
 - 2025-06-08: Update type definitions
 - 2025-06-03: Fix race condition
