@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-08: Update type definitions
 - 2025-06-03: Fix race condition
 - 2025-06-03: style(core): fix memory leak in worker
 - 2025-06-03: test(api): sync schema changes
