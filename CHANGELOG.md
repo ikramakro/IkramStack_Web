@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-26: Handle empty state
 - 2025-06-25: Minor code cleanup
 - 2025-06-25: Update README
 - 2025-06-14: Optimize query performance
