@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-07-04: Update type definitions
 - 2025-07-01: perf(auth): resolve timeout on slow networks
 - 2025-06-26: Handle empty state
 - 2025-06-25: Minor code cleanup
