@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-07-08: refactor(core): sync schema changes
 - 2025-07-04: Fix typo in config
 - 2025-07-04: Update type definitions
 - 2025-07-01: perf(auth): resolve timeout on slow networks
