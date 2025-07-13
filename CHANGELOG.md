@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-07-13: docs(middleware): add validation middleware
 - 2025-07-11: Fix date parsing bug
 - 2025-07-08: refactor(core): sync schema changes
 - 2025-07-04: Fix typo in config
