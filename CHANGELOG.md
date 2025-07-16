@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-07-16: refactor(utils): resolve timeout on slow networks
 - 2025-07-16: Patch security issue
 - 2025-07-16: docs(config): update package lock
 - 2025-07-13: docs(middleware): add validation middleware
