@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-07-29: Add input sanitization
 - 2025-07-16: refactor(utils): resolve timeout on slow networks
 - 2025-07-16: Patch security issue
 - 2025-07-16: docs(config): update package lock
