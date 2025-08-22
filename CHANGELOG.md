@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-08-22: Add fallback for missing data
 - 2025-08-19: Improve error handling
 - 2025-08-06: perf(db): fix memory leak in worker
 - 2025-08-03: Resolve merge conflict
