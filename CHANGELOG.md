@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-04: Improve code readability
 - 2025-09-03: feat(auth): add validation middleware
 - 2025-08-22: Add fallback for missing data
 - 2025-08-19: Improve error handling
