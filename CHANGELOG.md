@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-06: Handle empty state
 - 2025-09-04: style(config): improve error messages
 - 2025-09-04: Improve code readability
 - 2025-09-03: feat(auth): add validation middleware
