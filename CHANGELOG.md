@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-09-19: Update logging output
 - 2025-09-16: feat(core): fix memory leak in worker
 - 2025-09-09: perf(middleware): fix pagination offset
 - 2025-09-06: Handle empty state
