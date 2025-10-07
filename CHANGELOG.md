@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-10-07: Add input sanitization
 - 2025-10-03: Update README
 - 2025-09-26: test(utils): add validation middleware
 - 2025-09-19: Update logging output
