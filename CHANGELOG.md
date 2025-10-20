@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-10-20: feat(utils): add rate limiting
 - 2025-10-20: Patch security issue
 - 2025-10-07: Add input sanitization
 - 2025-10-03: Update README
