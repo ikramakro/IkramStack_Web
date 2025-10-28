@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-10-28: docs(ui): update cache TTL
 - 2025-10-28: chore(ui): update env example
 - 2025-10-23: Handle empty state
 - 2025-10-23: chore(routes): remove dead code
