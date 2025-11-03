@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-11-03: test(utils): update env example
 - 2025-10-31: chore(utils): add validation middleware
 - 2025-10-30: fix(auth): remove dead code
 - 2025-10-28: docs(ui): update cache TTL
