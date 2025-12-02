@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-02: perf(config): add session handling
 - 2025-11-03: test(utils): update env example
 - 2025-10-31: chore(utils): add validation middleware
 - 2025-10-30: fix(auth): remove dead code
