@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-06: Sync lockfile
 - 2025-12-03: Clean up unused imports
 - 2025-12-02: perf(config): add session handling
 - 2025-11-03: test(utils): update env example
