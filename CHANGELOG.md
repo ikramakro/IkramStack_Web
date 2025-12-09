@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-09: Fix validation edge case
 - 2025-12-09: Update environment config
 - 2025-12-07: Resolve merge conflict
 - 2025-12-06: Sync lockfile
