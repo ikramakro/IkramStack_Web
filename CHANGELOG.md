@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-12-28: Improve code readability
 - 2025-12-16: Bump patch version
 - 2025-12-15: Update environment config
 - 2025-12-09: Fix validation edge case
