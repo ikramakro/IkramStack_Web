@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-01-30: Patch security issue
 - 2026-02-04: chore(auth): add rate limiting
 - 2026-02-01: feat(config): fix pagination offset
 - 2026-02-13: docs(ui): correct response status codes
