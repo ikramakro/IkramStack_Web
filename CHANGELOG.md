@@ -1,8 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-02-13: docs(ui): correct response status codes
-- 2026-02-08: style(routes): update cache TTL
 - 2026-02-24: Update logging output
 - 2026-03-07: feat(auth): update package lock
 - 2026-03-21: Add input sanitization
