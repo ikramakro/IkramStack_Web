@@ -1,7 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-03-21: Add input sanitization
 - 2026-03-25: refactor(auth): remove dead code
 - 2026-03-24: feat(ui): resolve timeout on slow networks
 - 2026-03-22: chore(utils): update package lock
