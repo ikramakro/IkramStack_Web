@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-03-22: chore(utils): update package lock
 - 2026-04-03: chore(ui): fix pagination offset
 - 2026-04-08: Update type definitions
 - 2026-04-13: perf(ui): add rate limiting
