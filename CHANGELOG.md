@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-03-25: refactor(auth): remove dead code
 - 2026-03-24: feat(ui): resolve timeout on slow networks
 - 2026-03-22: chore(utils): update package lock
 - 2026-04-03: chore(ui): fix pagination offset
