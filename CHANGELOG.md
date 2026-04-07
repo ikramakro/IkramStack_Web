@@ -1,8 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-04-03: chore(ui): fix pagination offset
-- 2026-04-08: Update type definitions
 - 2026-04-13: perf(ui): add rate limiting
 - 2026-04-25: Update dependencies
 - 2026-04-22: style(ui): remove dead code
