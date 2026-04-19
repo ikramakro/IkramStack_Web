@@ -1,6 +1,6 @@
 {
-  "version": "1.0.115",
-  "lastUpdated": "2026-04-18T13:54:24",
+  "version": "1.0.97",
+  "lastUpdated": "2026-04-19T16:38:04",
   "events": [
     {
       "id": "evt_1780643710474_2232",
@@ -581,114 +581,6 @@
     {
       "id": "evt_1780643888865_3102",
       "timestamp": "2026-04-19T11:38:04.000Z",
-      "action": "sync",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643889232_9071",
-      "timestamp": "2026-04-20T12:30:22.000Z",
-      "action": "refactor",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643889587_3850",
-      "timestamp": "2026-04-21T12:51:56.000Z",
-      "action": "patch",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643889943_3068",
-      "timestamp": "2026-04-22T07:28:10.000Z",
-      "action": "deploy",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643890296_8518",
-      "timestamp": "2026-04-22T14:02:45.000Z",
-      "action": "sync",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643890655_4505",
-      "timestamp": "2026-04-23T04:51:48.000Z",
-      "action": "patch",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643891015_9453",
-      "timestamp": "2026-04-24T07:31:27.000Z",
-      "action": "patch",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643891382_6509",
-      "timestamp": "2026-04-24T14:55:33.000Z",
-      "action": "patch",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643891748_7977",
-      "timestamp": "2026-04-25T09:31:34.000Z",
-      "action": "update",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643892114_4882",
-      "timestamp": "2026-04-25T06:09:44.000Z",
-      "action": "deploy",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643892482_1166",
-      "timestamp": "2026-04-12T10:29:24.000Z",
-      "action": "deploy",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643892860_2976",
-      "timestamp": "2026-04-13T08:20:04.000Z",
-      "action": "patch",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643893220_9831",
-      "timestamp": "2026-04-13T13:18:19.000Z",
-      "action": "refactor",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643893682_3712",
-      "timestamp": "2026-04-14T09:07:39.000Z",
-      "action": "patch",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643894068_4311",
-      "timestamp": "2026-04-14T12:45:48.000Z",
-      "action": "update",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643894443_1328",
-      "timestamp": "2026-04-15T11:00:53.000Z",
-      "action": "patch",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643894806_2928",
-      "timestamp": "2026-04-17T05:09:41.000Z",
-      "action": "update",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643895167_9337",
-      "timestamp": "2026-04-17T05:15:58.000Z",
-      "action": "patch",
-      "status": "ok"
-    },
-    {
-      "id": "evt_1780643895535_2342",
-      "timestamp": "2026-04-18T08:54:24.000Z",
       "action": "sync",
       "status": "ok"
     }
