@@ -1,10 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-04-25: Update dependencies
-- 2026-04-22: style(ui): remove dead code
-- 2026-04-19: Patch security issue
-- 2026-04-28: docs(auth): add session handling
 - 2026-04-27: perf(middleware): sync schema changes
 - 2026-05-07: Fix date parsing bug
 - 2026-05-14: docs(config): remove dead code
