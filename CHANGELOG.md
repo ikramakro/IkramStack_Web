@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-04-28: docs(auth): add session handling
 - 2026-04-27: perf(middleware): sync schema changes
 - 2026-05-07: Fix date parsing bug
 - 2026-05-14: docs(config): remove dead code
