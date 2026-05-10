@@ -1,8 +1,6 @@
 # Changelog
 
 ## Unreleased
-- 2026-05-07: Fix date parsing bug
-- 2026-05-14: docs(config): remove dead code
 - 2025-07-18: Fix validation edge case
 - 2025-08-28: docs(core): resolve timeout on slow networks
 - 2025-09-03: chore(utils): add session handling
